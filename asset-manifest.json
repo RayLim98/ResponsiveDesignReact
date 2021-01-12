@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ResponsiveDesignReact/static/css/main.79136a62.chunk.css",
+    "main.js": "/ResponsiveDesignReact/static/js/main.7fe0c036.chunk.js",
+    "main.js.map": "/ResponsiveDesignReact/static/js/main.7fe0c036.chunk.js.map",
+    "runtime-main.js": "/ResponsiveDesignReact/static/js/runtime-main.5e0ec910.js",
+    "runtime-main.js.map": "/ResponsiveDesignReact/static/js/runtime-main.5e0ec910.js.map",
+    "static/js/2.0c199732.chunk.js": "/ResponsiveDesignReact/static/js/2.0c199732.chunk.js",
+    "static/js/2.0c199732.chunk.js.map": "/ResponsiveDesignReact/static/js/2.0c199732.chunk.js.map",
+    "static/js/3.e3445b5a.chunk.js": "/ResponsiveDesignReact/static/js/3.e3445b5a.chunk.js",
+    "static/js/3.e3445b5a.chunk.js.map": "/ResponsiveDesignReact/static/js/3.e3445b5a.chunk.js.map",
+    "index.html": "/ResponsiveDesignReact/index.html",
+    "static/css/main.79136a62.chunk.css.map": "/ResponsiveDesignReact/static/css/main.79136a62.chunk.css.map",
+    "static/js/2.0c199732.chunk.js.LICENSE.txt": "/ResponsiveDesignReact/static/js/2.0c199732.chunk.js.LICENSE.txt",
+    "static/media/sleeping_panda.f56c96ab.png": "/ResponsiveDesignReact/static/media/sleeping_panda.f56c96ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e0ec910.js",
+    "static/js/2.0c199732.chunk.js",
+    "static/css/main.79136a62.chunk.css",
+    "static/js/main.7fe0c036.chunk.js"
+  ]
+}
