@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ResponsiveDesignReact/static/css/main.79136a62.chunk.css",
-    "main.js": "/ResponsiveDesignReact/static/js/main.7fe0c036.chunk.js",
-    "main.js.map": "/ResponsiveDesignReact/static/js/main.7fe0c036.chunk.js.map",
+    "main.js": "/ResponsiveDesignReact/static/js/main.5dceee10.chunk.js",
+    "main.js.map": "/ResponsiveDesignReact/static/js/main.5dceee10.chunk.js.map",
     "runtime-main.js": "/ResponsiveDesignReact/static/js/runtime-main.5e0ec910.js",
     "runtime-main.js.map": "/ResponsiveDesignReact/static/js/runtime-main.5e0ec910.js.map",
     "static/js/2.0c199732.chunk.js": "/ResponsiveDesignReact/static/js/2.0c199732.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5e0ec910.js",
     "static/js/2.0c199732.chunk.js",
     "static/css/main.79136a62.chunk.css",
-    "static/js/main.7fe0c036.chunk.js"
+    "static/js/main.5dceee10.chunk.js"
   ]
 }
