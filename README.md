@@ -1,2 +1,8 @@
 # ResponsiveDesignReact
-#This is the build code 
+
+## Resources Used
+*React
+*Tailwindcss
+*npm 
+
+
