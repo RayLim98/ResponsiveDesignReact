@@ -12,5 +12,5 @@ function Banner() {
     </div>
   )
 }
-
+//test commit
 export default Banner
