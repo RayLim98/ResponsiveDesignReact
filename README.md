@@ -1,6 +1,6 @@
 # ResponsiveDesignReact
 
-## Resources Used
+## Resources Used:
 *React
 *Tailwindcss
 *npm 
